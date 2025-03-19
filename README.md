@@ -20,7 +20,7 @@ This project provides a structured way to filter, analyze, and track Web3 airdro
 
 ### Installation Steps
 ```bash
-git clone https://github.com/your-username/web3-airdrop-filter.git
+git clone https://github.com/gaoyue49/web3-airdrop-filter.git
 cd web3-airdrop-filter
 pip install -r requirements.txt  # Install dependencies
 ```
